@@ -1,12 +1,12 @@
 {
   "mappings": [
-    "/content/xcom-store/:/",
-    "/content/xcom-store/configuration:/.helix/config.json",
-    "/content/xcom-store/headers:/.helix/headers.json",
-    "/content/xcom-store/metadata:/metadata.json",
-    "/content/xcom-store.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/xcom-store-eds/:/",
+    "/content/xcom-store-eds/configuration:/.helix/config.json",
+    "/content/xcom-store-eds/headers:/.helix/headers.json",
+    "/content/xcom-store-eds/metadata:/metadata.json",
+    "/content/xcom-store-eds.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/xcom-store/"
+    "/content/xcom-store-eds/"
   ]
 }
